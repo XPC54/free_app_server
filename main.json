@@ -1,4 +1,46 @@
 
 {
-    "ads_id" : "testid"
+    "ads_id" : "testid",
+    
+    "sliders" : [
+        {
+        "name" : "ad_toys",
+        "link" : "https://mmonlineshopping.co",
+        "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio5fCQWWWDjGr3m4KjIIJmgH6VQqBN6Cv7vACCj__bAqeYNvm34e4dDfN7kKtiYmpRU1QBn4VdGd-_1cUojF8ec5v5ewS9_tCExg6jB2L2tFA40mHmFknAfSchM5MnNUnr0A62k-RBx4EF-9VJru8yx801l9ZF6uzgRXTIzS5OF7bDdAWghT3j9vosCA/s1600/%E1%80%98%E1%80%B1%E1%80%AC%E1%80%9C%E1%80%AE%E1%80%A1%E1%80%9C%E1%80%94%E1%80%BA%E1%80%B8%E1%80%90%E1%80%BD%E1%80%B1%E1%80%96%E1%80%BC%E1%80%AF%E1%80%90%E1%80%BA%E1%80%96%E1%80%AD%E1%80%AF%E1%80%B7%20%E1%80%90%E1%80%B1%E1%80%AC%E1%80%BA%E1%80%80%E1%80%AE%E1%80%A1%E1%80%86%E1%80%94%E1%80%BA%E1%80%B8%E1%80%90%E1%80%BD%E1%80%B1%20%E1%80%99%E1%80%9C%E1%80%AD%E1%80%AF%E1%80%90%E1%80%B1%E1%80%AC%E1%80%B7%E1%80%95%E1%80%AB%E1%80%98%E1%80%B0%E1%80%B8%20%282062%20%C3%97%201036%20px%29%20%281%29"
+        },
+        {
+        "name" : "ad",
+        "link" : "https://m.facebook.com/XcomicProduction/",
+        "image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_xRSXqsIf_UrwA7NyXaR3lHOn-N5ijo4wQwqXBgiL4oAYTUXYK4fKMEy6iQ8G4rm1c4lNcic_wGZMMziiuCEpcc5ifSKrtqXJhLOd01HiLEAhjRfHWpowS57ZebaclqUGrCJXhImnPeWwsPmvwz-aEPak9vhq8WYXkNpOzZ47QG_-pa_NsyU-Mv7gYQ/s0/1624349301-picsayt-picsay.jpg"
+        }
+    ],
+    
+    "series" : [
+            {
+            "encrypted":false,
+            "json":false,
+            "category": "Drama, Mature, Romance, Slice of Life, Campus, Harem, Senior, Junior",
+            "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvbxAN2xy7nXXY-krVYgSGxhPjMZA7AAJD3JyvqF4z5qGZulEvtTMvbdxvs70sdRQviYWUI6OjiFhhe-gYCGf6tDwz75_dXRsA9ggBI9yHMb3IdYxxgtlZTNO1o_7kBprBqv2rWUcywaczAl1-YkE7yFtcW264UMTju33F5mWri86FZ1Oj8U1FDgRAHQ/s1600/Screenshot%202023-02-19%20at%208.48.04%20AM.png",
+            "link": "https://raw.githubusercontent.com/IXC87/98data87578/main/data/DanceDepartmentFemaleSunbaes/episodes.json",
+            "rating": "TOONILY 4.5/5",
+            "review": "무용과 여선배들, Dancing with the Girls \n\nTae-Ho, the only guy in the Dance Department, who has now become their slave, one day finds a strange pair of panties in the Dance room. Ever since that day his eyes had been opened to his surroundings, not to mention close contact stretching had also started…",
+            "series_id": "0111",
+            "admob_id" : "testhousekeeper",
+            "status": "ongoing",
+            "title": "Dance Department’s Female Sunbaes"
+            },
+            {
+            "encrypted":false,
+            "json":false,
+            "category": "Drama, Mature, Romance, Slice of Life",
+            "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHNZVKVOCgVUDl4x7E00T-MOQj_rBLhJfSpKS3BGrr0bp-DId4nTLQv54bnS3l8S1IKLj_0e8PtY7xJ2lBUtZEY1FhJxGMCz9qqR1mJWxrf_HAe4wZjbiKArIlixVDvmA4CE5V4xhwLqXkw23-WjWidDQThAltgjVOtn7Fb0asjJSxlooZLPGhI5R8JA/s1600/nogada.jpeg",
+            "link": "https://raw.githubusercontent.com/IXC87/98data87578/main/data/nogada_romance/episodes.json",
+            "rating": "TOONILY 4.3/5",
+            "review": "Alt Name(s) : 노가다 로맨스\n\nJeon Yoo-Joon, a college student with a dirt spoon, starts having a thing with the women on the construction site thanks to a major accident that happened on the first day of work… A sexy and lively youthful romance unfolds.",
+            "series_id": "0110",
+            "admob_id" : "testhousekeeper",
+            "status": "ongoing",
+            "title": "Nogada Romance"
+            }
+    ]
 }
